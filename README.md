@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rusheel2008
+- 👀 I’m interested in Space
+- 🌱 I’m currently learning how to Code
