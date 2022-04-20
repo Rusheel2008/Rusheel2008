@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Rusheel2008
 - 👀 I’m interested in Space
-- 🌱 I’m currently learning how to Code
+- 🌱 I’m a master in JavaScript, C#, C++, and React Native
+- 📚 I'm currently learning Python.
